@@ -1,0 +1,7 @@
+# Sprint Challenge Study Guide
+conversions between binary, hex, decimal
+bitwise operations, logical operators
+what are the components of a computer? processor (cpu, alu), memory, registers, bus
+know what an interrupt is
+know what the stack is, how it works, what it's used for
+know how the ls-8 works, be able to implement operations
